@@ -302,7 +302,7 @@ local Image = AddImageLabel(Main, {
   Name = "soon | HUB",
   Image = "rbxassetid://110936268830783"
 })
-AddParagraph(Main, {"هنا كل قنوات المطور خليفه"})
+AddParagraph(Main, {"هنا كل قنوات المطور سون"})
 AddButton(Main, {
   Name = "انسخ قناة تيك توك ",
   Callback = function()
